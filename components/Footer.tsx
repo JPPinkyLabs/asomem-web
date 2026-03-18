@@ -54,7 +54,7 @@ export default function Footer() {
             <p className="text-sm leading-relaxed mb-5" style={{ color: "#6A5A6C" }}>
               Asociación de Mujeres Emprendedoras de Chile. Conectando, empoderando y haciendo crecer a las emprendedoras de todo el país.
             </p>
-            {/* Social */}
+            {/* Social — pure CSS hover via footer-social-btn class defined in globals.css */}
             <div className="flex items-center gap-3">
               {[
                 { icon: <Instagram size={18} />, href: "https://instagram.com/asomem.cl", label: "Instagram" },
@@ -68,19 +68,7 @@ export default function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={social.label}
-                  className="w-9 h-9 rounded-xl flex items-center justify-center transition-all duration-200 hover:-translate-y-1"
-                  style={{
-                    background: "rgba(232,160,191,0.12)",
-                    color: "#C77A9F",
-                  }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.background = "linear-gradient(135deg, #E8A0BF, #DEB6E8)";
-                    e.currentTarget.style.color = "white";
-                  }}
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.background = "rgba(232,160,191,0.12)";
-                    e.currentTarget.style.color = "#C77A9F";
-                  }}
+                  className="footer-social-btn"
                 >
                   {social.icon}
                 </a>
