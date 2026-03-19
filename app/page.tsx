@@ -242,7 +242,7 @@ export default function HomePage() {
 
             <p className="text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed" style={{ color: "#6A5A6C" }}>
               ASOMEM conecta a mujeres emprendedoras de todo Chile con herramientas, comunidad y oportunidades reales para hacer crecer sus negocios.
-              A su vez, ASOMEM es una asociación sin fines de lucro, y sus excedentes son donados a <Link href="https://www.fundacionnomeolvides.cl">Fundación No Me Olvides</Link>Link>.
+              A su vez, ASOMEM es una asociación sin fines de lucro, y sus excedentes son donados a <Link href="https://www.fundacionnomeolvides.cl" target="_blank" rel="noopener noreferrer">Fundación No Me Olvides</Link>.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
