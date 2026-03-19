@@ -8,8 +8,8 @@ import Link from "next/link";
 const proximos = [
   {
     titulo: "Taller: Marketing Digital para Emprendedoras",
-    fecha: "15 de abril 2026",
-    hora: "10:00 - 12:00",
+    fecha: "Próximamente",
+    hora: "Por definir",
     modalidad: "Online",
     desc: "Aprende a crear contenido que vende sin invertir en publicidad. Estrategias probadas para Instagram, TikTok y WhatsApp Business.",
     publico: true,
@@ -19,8 +19,8 @@ const proximos = [
   },
   {
     titulo: "Networking: Café de Emprendedoras Santiago",
-    fecha: "22 de abril 2026",
-    hora: "18:00 - 20:00",
+    fecha: "Próximamente",
+    hora: "Por definir",
     modalidad: "Presencial",
     lugar: "Santiago, RM",
     desc: "Conecta con emprendedoras de la Región Metropolitana en un ambiente distendido. Trae tus tarjetas y muchas ganas de hacer red.",
@@ -31,8 +31,8 @@ const proximos = [
   },
   {
     titulo: "Webinar: Fondos CORFO 2026 — Todo lo que necesitas saber",
-    fecha: "5 de mayo 2026",
-    hora: "11:00 - 12:30",
+    fecha: "Próximamente",
+    hora: "Por definir",
     modalidad: "Online",
     desc: "Repaso completo de las líneas de financiamiento CORFO disponibles este año. Con preguntas y respuestas en vivo.",
     publico: true,
@@ -42,8 +42,8 @@ const proximos = [
   },
   {
     titulo: "Feria de Emprendedoras ASOMEM Valparaíso",
-    fecha: "20 de mayo 2026",
-    hora: "10:00 - 18:00",
+    fecha: "Próximamente",
+    hora: "Por definir",
     modalidad: "Presencial",
     lugar: "Valparaíso",
     desc: "La feria de emprendimiento femenino más grande del litoral central. Expone tus productos, conecta con otras socias y vende.",
@@ -54,8 +54,8 @@ const proximos = [
   },
   {
     titulo: "Masterclass: Inteligencia Artificial para tu Negocio",
-    fecha: "10 de junio 2026",
-    hora: "15:00 - 17:00",
+    fecha: "Próximamente",
+    hora: "Por definir",
     modalidad: "Online",
     desc: "Cómo usar IA para automatizar tareas, crear contenido y tomar mejores decisiones en tu emprendimiento. Sin conocimientos técnicos previos.",
     publico: true,
@@ -65,8 +65,8 @@ const proximos = [
   },
   {
     titulo: "Encuentro Nacional de Socias ASOMEM 2026",
-    fecha: "25 de julio 2026",
-    hora: "09:00 - 18:00",
+    fecha: "Próximamente",
+    hora: "Por definir",
     modalidad: "Híbrido",
     lugar: "Santiago + Streaming",
     desc: "El evento más importante del año de ASOMEM. Conferencias, paneles, networking y la premiación anual a las emprendedoras del año.",
